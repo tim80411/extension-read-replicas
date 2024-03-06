@@ -1,6 +1,6 @@
 {
-  "name": "@prisma/extension-read-replicas",
-  "version": "0.2.2",
+  "name": "extension-read-replicas-for-option",
+  "version": "0.3.2",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
